@@ -2,8 +2,11 @@
 
 Requirements
 1) Running solr with article core
-if core not availanle create with the command \n
-cd solr-version/bin\n
+
+if core not availanle create with the command 
+
+cd solr-version/bin
+
 solr create -c article
 
 2)Java 10 or higher
